@@ -1,1 +1,1 @@
-# Java-3
+This is a JavaScript project that displays a restaurant menu on a webpage. The menu consists of various dishes categorized into Breakfast, Lunch, Dinner and Native. Each dish has a title, category, price, description, and image associated with it.

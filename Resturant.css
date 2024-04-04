@@ -1,0 +1,57 @@
+
+.underline{
+    padding: 3px;
+    background-color: goldenrod;
+    width: 70px;
+    margin: auto;
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
+.menu-item{
+    margin: 20px 20px;
+    height: fit-content;
+    padding: 10px 0px;
+    
+}
+.filter-btn{
+  margin: 15px 10px;
+  border-radius: 10px;
+  background-color: white;
+  color: goldenrod;
+  border-color: goldenrod;
+}
+.filter-btn:hover{
+    background-color: goldenrod;
+    color: white;
+}
+img {
+    width: 200px;
+    height:200px
+
+}
+.item-info{
+    margin: 0 10px;
+}
+.price{
+    color: goldenrod;
+    font-size: 20px;
+}
+h4{
+    font-size: 20px;
+}
+/* Respomsiveness */
+@media  (max-width:909px) {
+.section-center{
+   
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+   
+}
+/* .menu-item{
+    
+    width: 100%;
+    height: fit-content;
+} */
+
+}
