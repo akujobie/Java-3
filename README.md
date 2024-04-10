@@ -1,1 +1,1 @@
-# Java-3
+A simple grocery bud application
